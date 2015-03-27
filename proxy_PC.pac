@@ -2443,7 +2443,8 @@ var domains = {
   "minus.com": 1,
   "feedly.com": 1,
   "e-hentai.com": 1,
-  "exhentai.com": 1
+  "exhentai.com": 1,
+  "v2ex.com": 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
