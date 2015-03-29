@@ -2442,8 +2442,8 @@ var domains = {
   "amazonaws.com": 1,
   "minus.com": 1,
   "feedly.com": 1,
-  "e-hentai.com": 1,
-  "exhentai.com": 1,
+  "e-hentai.org": 1,
+  "exhentai.org": 1,
   "v2ex.com": 1,
   "github.com": 1,
   "evernote.com": 1
