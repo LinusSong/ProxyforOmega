@@ -2447,7 +2447,8 @@ var domains = {
   "v2ex.com": 1,
   "github.com": 1,
   "evernote.com": 1,
-  "imgur.com": 1
+  "imgur.com": 1,
+  "youtubeinmp3.com": 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
