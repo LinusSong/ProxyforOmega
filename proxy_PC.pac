@@ -2450,7 +2450,8 @@ var domains = {
   "imgur.com": 1,
   "youtubeinmp3.com": 1,
   "githubusercontent.com": 1,
-  "wnacg.com": 1
+  "wnacg.com": 1,
+  "wsj.net": 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1983; SOCKS 127.0.0.1:1983; DIRECT;";
