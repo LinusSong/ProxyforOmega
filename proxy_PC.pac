@@ -2453,8 +2453,8 @@ var domains = {
   "wnacg.com": 1,
   "wsj.net": 1,
   "dmhy.org": 1,
-  "ift.tt": 1,
-  "kindleren.com": 1
+  "kindleren.com": 1,
+  "ift.tt": 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1983; SOCKS 127.0.0.1:1983; DIRECT;";
