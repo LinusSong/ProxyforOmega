@@ -2452,7 +2452,6 @@ var domains = {
   "githubusercontent.com": 1,
   "wnacg.com": 1,
   "wsj.net": 1,
-  "dmhy.org": 1,
   "kindleren.com": 1,
   "ift.tt": 1
 };
