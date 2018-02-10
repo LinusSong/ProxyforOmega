@@ -2455,7 +2455,8 @@ var domains = {
   "kindleren.com": 1,
   "ift.tt": 1,
   "pixiv.net": 1,
-  "goo.gl": 1
+  "goo.gl": 1,
+  "lvv2.com": 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1983; SOCKS 127.0.0.1:1983; DIRECT;";
