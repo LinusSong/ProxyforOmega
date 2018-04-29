@@ -2460,7 +2460,8 @@ var domains = {
   "steamcommunity.com": 1,
   "telegram.org": 1,
   "eyny.com": 1,
-  "any.do": 1
+  "any.do": 1,
+  "bbc.com": 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1983; SOCKS 127.0.0.1:1983; DIRECT;";
